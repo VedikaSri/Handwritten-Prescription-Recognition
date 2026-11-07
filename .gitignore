@@ -1,0 +1,18 @@
+# Dataset
+RxHandBD-ML/
+
+# Model files
+*.keras
+*.h5
+*.pkl
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.venv/
+venv/
